@@ -8,5 +8,5 @@
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
-![Top Langs](https://github-readme-stats.vercel.app)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhjeet510&layout=compact&theme=tokyonight)
 
